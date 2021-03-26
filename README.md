@@ -82,7 +82,7 @@ To edit the project, replace the values in **_portoflio > src > data_** director
 ## Run
 
 - Run the application using `npm start`
-- - Deploy the application to GH Pages using `npm run deploy`
+- Deploy the application to GH Pages using `npm run deploy`
 
 ---
 
