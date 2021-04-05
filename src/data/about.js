@@ -9,8 +9,8 @@ export const TITLES = [
 export const EMAIL = "malakasilva43@gmail.com";
 
 export const CONTACT = {
-  FACEBOOK: "https://www.facebook.com/MalakaDSilva/",
-  TWITTER: "https://www.twitter.com/_MalakaSilva_/",
-  LINKEDIN: "https://www.linkedin.com/in/malaka-silva/",
-  GITHUB: "https://github.com/MalakaDeSilva",
+  FACEBOOK: "{Your facebook account link}",
+  TWITTER: "{Your Twitter account link}",
+  LINKEDIN: "{Your LinkedIn account link}",
+  GITHUB: "{Your GitHub account link}",
 };
