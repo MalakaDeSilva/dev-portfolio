@@ -1,6 +1,6 @@
 {
-  "homepage": "https://malakadesilva.github.io/",
-  "name": "malakadesilva.github.io",
+  "homepage": "https://{Your username}.github.io/",
+  "name": "{Your username}.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
